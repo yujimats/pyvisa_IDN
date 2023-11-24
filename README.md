@@ -124,3 +124,5 @@ inst_1.write('*rst, *IDN?')
 計測器との接続方法は、USBケーブル、NI社のUSB-GPIBケーブルを使うと良いと思います。
 GPIBケーブルは少々高額だし、最近の計測器は基本的にUSB端子がついてるので、USBケーブルでの接続をおすすめします。
 
+# 関連記事
+<https://qiita.com/YujiMatsu/items/8e0437b33555647b0fc4>
